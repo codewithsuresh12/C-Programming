@@ -47,4 +47,14 @@ This section covers fundamental operators in C programming. It includes arithmet
 8.	WAP to check even/odd using bitwise & operator without %. Hint: n & 1
 9.	WAP to find greatest of 2 numbers using ternary operator ?:
 10.	WAP to find greatest of 3 numbers using ternary operator only. No if-else.
+11.	WAP to check if a character is vowel or consonant using logical operators.
+12.	WAP to check if a number is divisible by 5 and 11 both.
+13.	WAP to print last digit of a number. Example: 1234 → 4
+14.	WAP to remove last digit of a number. Example: 1234 → 123
+15.	WAP to add 2 numbers without using + operator. Hint: Use -(-a-b)
+16.	WAP to multiply a number by 2 without using * operator. Hint: Left shift
+17.	WAP to check if a number is positive, negative or zero using nested ternary.
+18.	WAP to convert days into years, weeks, days. Example: 375 days = 1 year, 1 week, 3 days.
+19.	WAP to calculate total marks and percentage of 5 subjects. Also print grade using operators.
+20.	WAP to input a 5-digit number and find sum of all digits. Ex: 12345 → 15
 
