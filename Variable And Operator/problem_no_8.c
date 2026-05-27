@@ -1,4 +1,4 @@
-// 8.	WAP to check even/odd using bitwise & operator without %. Hint: n & 1
+// 8.WAP to check even/odd using bitwise & operator without %. Hint: n & 1
 #include <stdio.h>
 int main()
 {
