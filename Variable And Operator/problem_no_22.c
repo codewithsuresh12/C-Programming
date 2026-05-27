@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    int d1, d2, d3, num, palin;
+    int d1, d2, d3, num;
 
     printf("Enter the 3 digit number :");
     scanf("%d", &num);
