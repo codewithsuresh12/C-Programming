@@ -57,4 +57,14 @@ This section covers fundamental operators in C programming. It includes arithmet
 18.	WAP to convert days into years, weeks, days. Example: 375 days = 1 year, 1 week, 3 days.
 19.	WAP to calculate total marks and percentage of 5 subjects. Also print grade using operators.
 20.	WAP to input a 5-digit number and find sum of all digits. Ex: 12345 → 15
+21.	WAP to reverse a 4-digit number without using loop. Ex: 1234 → 4321
+22.	WAP to check if a 3-digit number is palindrome or not. Ex: 121 → Yes
+23.	WAP to convert meter to centimeter, millimeter and kilometer. Take meter as input.
+24.	WAP to swap first and last digit of a 4-digit number. Ex: 1234 → 4231
+25.	WAP to calculate total salary. Total = Basic + DA + HRA - PF. DA=25%, HRA=15%, PF=12% of Basic. 
+26.	WAP to find profit or loss. Input Cost Price and Selling Price. Also print profit/loss amount.
+27.	WAP to convert total minutes into days, hours, minutes. Ex: 2000 min = 1 day, 9 hr, 20 min
+28.	WAP to check if alphabet is vowel or consonant using ASCII and logical operators.
+29.	WAP to toggle a number's nth bit using XOR. Input number and bit position from user.
+30.	WAP to add 2 numbers using bitwise operators only. No +, -, _, / allowed.
 
