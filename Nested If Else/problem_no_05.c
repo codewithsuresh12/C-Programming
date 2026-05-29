@@ -8,7 +8,6 @@ int main()
     printf("Enter Annual Income in Rs: ");
     scanf("%f", &income);
 
-    // Nested if-else se slab check
     if (income <= 250000)
     {
         tax = 0; // 0% tax
