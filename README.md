@@ -92,3 +92,18 @@ This section covers fundamental operators in C programming. It includes arithmet
 6. Date Valid
 7. Temperature State
 
+## Practice Code Problem Of The Swich Case
+
+1. Day Name: 1-7 input
+2. Month Days
+3. Simple Calculator
+4. Gender: M/m = Male, F/f = Female 
+5. Menu Driven Program: 1.Area of Circle, 2.Area of Rectangle, 3.Area of Triangle, 4.Exit.
+6. Currency Converter
+7. Even/Odd using Switch
+8. Max of 2 using Switch
+9. Nested Switch Calculator
+10. Days in Month with Leap
+11. Hospital System
+12. Roman to Integer
+13. Traffic Light System
