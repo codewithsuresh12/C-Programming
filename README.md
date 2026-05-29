@@ -82,3 +82,13 @@ This section covers fundamental operators in C programming. It includes arithmet
 10. Uppercase/Lowercase
 11. Weekday/Weekend
 
+## Practice Code Problem Of The Nested If Else
+
+1. Youngest of 3
+2. Driving License
+3. Employee Bonus
+4. Discount System
+5. Income Tax Calculator
+6. Date Valid
+7. Temperature State
+
