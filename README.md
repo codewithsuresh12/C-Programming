@@ -68,3 +68,17 @@ This section covers fundamental operators in C programming. It includes arithmet
 29.	WAP to toggle a number's nth bit using XOR. Input number and bit position from user.
 30.	WAP to add 2 numbers using bitwise operators only. No +, -, _, / allowed.
 
+## Practice Code Problem Of The If Else
+
+1. Even/Odd check
+2. Positive/Negative/Zero
+3. Voting Eligibility
+4. Greatest of 2 numbers
+5. Divisible by 5
+6. Leap Year
+7. Triangle Valid
+8. Electricity Bill
+9. Character Type
+10. Uppercase/Lowercase
+11. Weekday/Weekend
+
