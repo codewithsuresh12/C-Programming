@@ -1,4 +1,4 @@
-// 4. print the n number is even or odd
+// 4. print the number is even or odd from 1 to 50
 #include <stdio.h>
 int main()
 {
