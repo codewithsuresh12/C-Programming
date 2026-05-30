@@ -11,7 +11,6 @@ int main()
     printf("Enter amount to withdraw: ");
     scanf("%d", &amount);
 
-    // Validation: amount 100 ka multiple hona chahiye
     if (amount % 100 != 0)
     {
         printf("Sorry! Amount must be multiple of 100\n");
@@ -26,19 +25,18 @@ int main()
 
     temp = amount;
 
-    // 500 ke notes nikalo
+    // 500 notes
     n500 = temp / 500;
     temp = temp % 500;
 
-    // 200 ke notes nikalo
+    // 200 notes
     n200 = temp / 200;
     temp = temp % 200;
 
-    // 100 ke notes nikalo
+    // 100 notes
     n100 = temp / 100;
     temp = temp % 100;
 
-    // Agar abhi bhi temp bacha hai to amount nahi ban sakta
     if (temp != 0)
     {
         printf("Sorry! Cannot dispense Rs.%d with available notes\n", amount);
