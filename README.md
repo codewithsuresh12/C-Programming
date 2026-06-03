@@ -107,3 +107,26 @@ This section covers fundamental operators in C programming. It includes arithmet
 11. Hospital System
 12. Roman to Integer
 13. Traffic Light System
+
+## Loop - 
+
+A loop is used to execute a block of code repeatedly until a specified condition become false
+
+## Why use the loop
+
+1. Reduce code repetition 
+2. Save time And Effort
+3. Make program short and easier to manage
+
+## While Loop
+
+1. Write a program to print numbers from 1 to 10 using while loop.
+2. Write a program to print numbers from 10 to 1 using while loop.
+3. Write a program to print even numbers from 1 to 20 using while loop.
+4.  Write a program to print odd numbers from 1 to 20 using while loop.
+5. Write a program to find the sum of first 10 natural numbers using while loop.
+6. Write a program to print multiplication table of a number using while loop.
+7. Write a program to calculate factorial of a number using while loop.
+8. Write a program to reverse a number using while loop.
+9. Write a program to count digits in a number using while loop.
+10. Write a program to check whether a number is palindrome or not using while loop.
