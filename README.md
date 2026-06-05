@@ -130,3 +130,20 @@ A loop is used to execute a block of code repeatedly until a specified condition
 8. Write a program to reverse a number using while loop.
 9. Write a program to count digits in a number using while loop.
 10. Write a program to check whether a number is palindrome or not using while loop.
+
+## Do While Loop
+
+1. WAP to Print Numbers from 1 to 10 using do-while loop
+2. WAP to Find Sum of First N Natural Numbers using do-while loop
+3. WAP to Print Multiplication Table of a Number using do-while loop
+4. WAP to Count Digits in a Number using do-while loop
+5. WAP to Reverse a Number using do-while loop
+
+## For Loop
+
+1. print the all number from 1 to 100
+2. print the all even number from 1 to 100
+3. print th odd number form 1 to 100
+4. print the number is even or odd from 1 to 50
+5. print the table of n
+
