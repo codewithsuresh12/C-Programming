@@ -14,37 +14,37 @@ A complete collection of C programs, notes, practicals, and problem-solving exer
 
 This repository contains:
 
-✅ C Programming Basics
-✅ Operators & Expressions
-✅ Conditional Statements
-✅ Loops (for, while, do-while)
-✅ Functions
-✅ Arrays
-✅ Strings
-✅ Pointers
-✅ Structures & Unions
-✅ File Handling
-✅ Dynamic Memory Allocation
-✅ Pattern Programs
+✅ C Programming Basics<br>
+✅ Operators & Expressions<br>
+✅ Conditional Statements<br>
+✅ Loops (for, while, do-while)<br>
+✅ Functions<br>
+✅ Arrays<br>
+✅ Strings<br>
+✅ Pointers<br>
+✅ Structures & Unions<br>
+✅ File Handling<br>
+✅ Dynamic Memory Allocation<br>
+✅ Pattern Programs<br>
 
 ## 📂 Repository Structure
-C-Programming/
-│
-├── 01_Basics/
-├── 02_Data_Types/
-├── 03_Operators/
-├── 04_Conditional_Statements/
-├── 05_Loops/
-├── 06_Functions/
-├── 07_Arrays/
-├── 08_Strings/
-├── 09_Pointers/
-├── 10_Structures/
-├── 11_File_Handling/
-├── 12_Pattern_Programs/
-├── 13_Practical_Programs/
-├── 14_Interview_Questions/
-└── README.md
+C-Programming/<br>
+│<br>
+├── 01_Basics/<br>
+├── 02_Data_Types/<br>
+├── 03_Operators/<br>
+├── 04_Conditional_Statements/<br>
+├── 05_Loops/<br>
+├── 06_Functions/<br>
+├── 07_Arrays/<br>
+├── 08_Strings/<br>
+├── 09_Pointers/<br>
+├── 10_Structures/<br>
+├── 11_File_Handling/<br>
+├── 12_Pattern_Programs/<br>
+├── 13_Practical_Programs/<br>
+├── 14_Interview_Questions/<br>
+└── README.md<br>
 
 
 # 🎯 Topics Covered
